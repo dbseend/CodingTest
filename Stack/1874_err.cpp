@@ -29,7 +29,7 @@ public:
     {
         if (IsFullS(s))
         {
-            // cout << "Stack is Full!" << endl;
+            // cout << "Stack is Full!1" << endl;
         }
         else
         {
